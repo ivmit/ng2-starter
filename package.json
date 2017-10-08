@@ -1,0 +1,19 @@
+{
+  "name": "ng2-starter",
+  "version": "1.0.0",
+  "description": "angular 2 starter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nony1992/ng2-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nony1992/ng2-starter/issues"
+  },
+  "homepage": "https://github.com/nony1992/ng2-starter#readme"
+}
